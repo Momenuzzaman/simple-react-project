@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 13 pro max",
+    "price": 161999,
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2020/10/Apple-iphone-12-Pro-Max.jpg",
+    "description": "Apple iPhone 12 Pro Max comes with a 6.7 inches Super Retina XDR OLED screen which is one of its main specialties. It has a classical Apple iPhone notch design. The back camera is of quad 12+12+12 MP + TOF 3D with powerful image processing capability and Ultra HD 4K video recording. The front one is of Dual 12 MP and SL 3D camera. Apple iPhone 12 Pro Max comes with Li-ion battery with 18W fast charging solution. It has 6 GB RAM, Hexa-core CPU and Apple GPU. It is powered by a 5 nm Apple A14 Bionic chipset. The device comes with 128, 256 or 512 GB internal storage."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S20",
+    "price": 100000,
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2020/02/Samsung-Galaxy-S20.jpg",
+    "description": "Samsung Galaxy S20 comes with 6.2 inches Quad HD+ Dynamic AMOLED 2X screen. It has a punch-hole front camera design. The back camera is of triple 12+64+12 MP with PDAF, OIS, 3x hybrid optical zoom, telephoto, ultrawide etc. and up to 8K video recording. The front camera is of 10 Megapixel. Galaxy S20 comes with 4000 mAh battery with 25W fast charging. It has 8 GB RAM, up to 2.73 GHz octa-core CPU and Mali-G77 MP11 GPU. It is powered by a 7 nm+ Exynos 990 chipset. The device comes with 128 GB UFS 3.0 internal storage and shared MicroSD slot. There is an ultrasonic in-display fingerprint sensor in this phone."
+  },
+  {
+    "id": 3,
+    "name": "OnePlus 10 Pro",
+    "price": 94990,
+    "img": "https://www.mobiledokan.co/wp-content/uploads/2020/10/OnePlus-10-Pro-Black.jpg",
+    "description": "OnePlus 10 Pro will be launched in January 2022. The 10 Pro launched with model number NE2210. Firstly, Its dimensional measure is unknown and the weight is unknown. Secondly, the display of the 10 Pro is a 6.62-inch AMOLED panel with 1080 x 2400 pixels resolution. The display is protected from the Glass front (Gorilla Glass), glass back (Gorilla Glass), aluminum frame. Most importantly, It is powered by the Qualcomm SM8450 Snapdragon 8 Gen1 (4 nm) and runs Android 12. Moreover, it has up to an Octa-core (1×3.00 GHz Cortex-X2 & 3×2.50 GHz Cortex-A710 & 4×1.80 GHz Cortex-A510) CPU."
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi Mi 10 Pro",
+    "price": 94500,
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2020/02/Xiaomi-Mi-10-Pro-blue.jpg",
+    "description": "Xiaomi Mi 10 Pro comes with 6.67 inches Full HD+ Super AMOLED screen. It has a punch-hole front camera design. The front side is protected by a 5th generation Gorilla Glass. The back camera is of quad 108+8+12+20 MP with PDAF, triple-LED flash, laser autofocus, 2x optical zoom, 10x hybrid optical zoom, OIS, ultrawide, telephoto, dedicated portrait camera etc. and up to 8K video recording option. The front camera is of 20 MP. Mi 10 Pro comes with 4500 mAh battery with 50W fast charging. It has 8 or 12 GB RAM, up to 2.84 GHz octa-core CPU and Adreno 650 GPU. It is powered by a Qualcomm Snapdragon 865 (7 nm+) chipset. The device comes in 256 or 512 GB UFS 3.0 internal storage and no Memory Card slot. There is an in-display fingerprint sensor in this phone."
+  },
+  {
+    "id": 5,
+    "name": "Sony Xperia 1",
+    "price": 61500,
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2019/10/Sony-Xperia-1.jpg",
+    "description": "Sony Xperia 1 comes with 6.5 inches 1640 x 3840 pixels OLED screen. It has a Full-view design. Both front and backside are protected by 6th generation Gorilla Glasses. The back camera is of triple 12+12+12 MP with predictive Dual Pixel PDAF, ultrawide, telephoto, 2x optical zoom, 5-axis OIS, eye-tracking etc. and Ultra HD 4K video recording. The front camera is of 8 MP. Xperia 1 comes with 3330 mAh battery with 18W fast charging. It has 6 GB RAM, up to 2.84 GHz octa-core CPU and Adreno 640 GPU. It is powered by Qualcomm Snapdragon 855 (7nm) chipset. The device comes with 64 or 128 GB internal storage and shared MicroSD slot. There is a side-mounted fingerprint sensor in this phone."
+  }
+]
