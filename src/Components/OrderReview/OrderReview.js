@@ -4,14 +4,19 @@ import useProduct from '../UseProducts';
 
 const OrderReview = (props) => {
     const { setCart, cart } = props;
-    const [products] = useProduct();
-
+    // const [products] = useProduct();
+    const handleRemove = id => {
+        const newCart = cart.filter(product => product.id !== id);
+        setCart(newCart);
+    }
     return (
         <div>
             {
-                cart.map(product => <ReviewItem product={product}></ReviewItem>)
+                cart.map(product => <ReviewItem
+                    handleRemove={handleRemove}
+                    product={product}>
+                </ReviewItem>)
             }
-            <h1>{products.length}</h1>
         </div>
     );
 };
