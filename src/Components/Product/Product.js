@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react';
-import useCart from '../../useCart';
+
 import './Product.css'
 
 const Product = (props) => {
